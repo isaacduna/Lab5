@@ -1,2 +1,2 @@
-# Lab5
-Lab5 Github Upload
+# JSPlatformer
+JS Platformer for DIG 3480C
